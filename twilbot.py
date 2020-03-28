@@ -22,7 +22,7 @@ def sms_send_reply():
 def send_question(client):
     user_input = input('enter a message\n')
     message = client.messages.create(
-                    to="+16266506683", 
+                    to="PHONE", 
                     from_="+16015640369",
                     body=user_input)
     print(message.sid)
