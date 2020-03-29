@@ -1,8 +1,6 @@
 import pygame
 from random import randint
 
-# for now, assume that when a piece spawns, it must
-# be oriented vertically
 FRAME_RATE = 30
 
 ROWS = 16
