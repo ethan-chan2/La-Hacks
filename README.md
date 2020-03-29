@@ -23,6 +23,9 @@ Hailey Duong
 Nathan Ly
 
 This project is also available on Google Cloud: 
+
 Project name: quaranteam project
+
 Project ID: quaranteam-project
+
 Project number: 148032420542
