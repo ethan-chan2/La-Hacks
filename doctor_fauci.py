@@ -416,26 +416,6 @@ class Pill(Orb):
                 return False
         return False
 
-    def pill_image(self):
-        if self.color == 'whatever color':
-            # BLIT IMAGE HERE
-            pass
-        elif self.color == 'asdf':
-            pass
-        elif self.color == 'asdf':
-            pass
-
-
-class Virus(Orb):
-    def virus_image(self):
-        if self.color == 'whatever color':
-            # BLIT IMAGE HERE
-            pass
-        elif self.color == 'asdf':
-            pass
-        elif self.color == 'asdf':
-            pass
-
 
 def main():
     Game().run()
