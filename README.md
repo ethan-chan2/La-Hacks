@@ -4,11 +4,11 @@ Welcome to our game Dr. Fauci World!
 
 It is the year 2020.
 The Coronavirus pandemic has taken the world by storm.
-You are the assistant of the amazing Dr. Fauci, aiding him in purging the world of viruses.
+You are the assistant of the legendary Dr. Fauci, aiding him in purging the world of viruses.
 In order to cleanse this planet, you must match sets of three or more orbs.
 
 The main goal of this game is to clear all of the orbs on the board containing viruses.
-These viruses are air-borne, and thus do not fall to the ground.
+These troublesome viruses are air-borne, and thus do not fall to the ground.
 Upon clearing all of the viruses on the board, you will reach the next stage of the Coronavirus outbreak.
 As the stages progress, the difficulty also increases.
 
