@@ -311,7 +311,6 @@ class BoardState:
         self.current_piece = None
         self.need_new_piece = True
         self.lose = False
-        self.need_event_move = True
         self.game_level = level
         self.total_viruses = 4 * self.game_level
         self.num_viruses = 4 * self.game_level
