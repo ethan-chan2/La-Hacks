@@ -21,3 +21,5 @@ Contributors:
 Ethan Chan
 Hailey Duong
 Nathan Ly
+
+This project is also available on Google Cloud: 
