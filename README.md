@@ -15,3 +15,9 @@ As the stages progress, the difficulty also increases.
 How long can you fare against this deadly disease?
 
 This game was inspired by Dr. Mario, an action-puzzle game originally made for the NES by Takahiro Harada.
+
+
+Contributors:
+Ethan Chan
+Hailey Duong
+Nathan Ly
